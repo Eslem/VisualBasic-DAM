@@ -1,0 +1,9 @@
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\bin\Debug\Laberinto.exe
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\bin\Debug\Laberinto.pdb
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\bin\Debug\Laberinto.xml
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\WindowsApplication1.Laberinto.resources
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.vbproj.GenerateResource.Cache
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.exe
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.xml
+E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.pdb

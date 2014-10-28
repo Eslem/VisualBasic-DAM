@@ -1,0 +1,15 @@
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\bin\Debug\PruebaMatematica.exe
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\bin\Debug\PruebaMatematica.pdb
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\bin\Debug\PruebaMatematica.xml
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.Form1.resources
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.Resources.resources
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.vbproj.GenerateResource.Cache
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.exe
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.xml
+C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\PruebaMatematica.pdb
+E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.exe
+E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.xml
+E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.pdb
