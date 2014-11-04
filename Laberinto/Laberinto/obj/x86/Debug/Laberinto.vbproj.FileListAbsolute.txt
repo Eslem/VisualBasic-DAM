@@ -7,3 +7,6 @@ E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.exe
 E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.xml
 E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.pdb
 E:\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\Laberinto\Laberinto\obj\x86\Debug\Laberinto.pdb
