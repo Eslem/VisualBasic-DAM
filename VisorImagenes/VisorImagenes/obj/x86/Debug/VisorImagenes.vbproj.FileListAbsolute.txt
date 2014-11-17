@@ -7,3 +7,6 @@ E:\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.vb
 E:\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.exe
 E:\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.xml
 E:\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\VisorImagenes\VisorImagenes\obj\x86\Debug\VisorImagenes.pdb

@@ -1,0 +1,12 @@
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Form1.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Resources.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.vbproj.GenerateResource.Cache
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.vbprojResolveAssemblyReference.cache
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Ayuda.resources
