@@ -1,0 +1,10 @@
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\bin\Debug\JuegoFormarParejas.exe.config
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\bin\Debug\JuegoFormarParejas.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\bin\Debug\JuegoFormarParejas.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\bin\Debug\JuegoFormarParejas.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.Form1.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.Resources.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.vbproj.GenerateResource.Cache
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\JuegoFormarParejas\JuegoFormarParejas\obj\Debug\JuegoFormarParejas.pdb
