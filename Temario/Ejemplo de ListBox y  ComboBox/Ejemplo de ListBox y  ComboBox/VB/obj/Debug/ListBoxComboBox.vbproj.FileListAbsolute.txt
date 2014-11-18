@@ -1,0 +1,28 @@
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\bin\ListBoxComboBox.exe.config
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\bin\ListBoxComboBox.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\bin\ListBoxComboBox.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\bin\ListBoxComboBox.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.MainForm.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.Status.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\obj\Debug\ListBoxComboBox.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\ListBox and ComboBox Sample\VB\bin\empleados.sdf
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\bin\ListBoxComboBox.exe.config
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\bin\empleados.sdf
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\bin\ListBoxComboBox.exe
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\bin\ListBoxComboBox.pdb
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\bin\ListBoxComboBox.xml
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.MainForm.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.Resources.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\ListBoxComboBox.Status.resources
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\David\Documents\Visual Studio 2010\Projects\David\Ejemplo de ListBox y  ComboBox\VB\obj\Debug\GenerateResource.write.1.tlog

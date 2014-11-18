@@ -1,0 +1,150 @@
+﻿VB Code<>				-> = Return
+
+	2º Term
+		Elements
+			Comments: '
+			Module: Sub Module
+			Declare:  [Static] Dim ident [As [New] Type] [=exprInic]
+				Constants:[{ Public | Protected | Friend | Protected Friend | Private }] Const identificador [ As tipoDatos ] = ExprInic
+			Null: Nothing
+			Enum: 
+				Public Enum DiaSemana
+					Domingo ‘La constante DiaSemana.Domingo vadrá 0
+					Lunes
+					Martes
+					Miércoles
+					Jueves
+					Viernes
+					Sábado ‘La constante DiaSemana.Sábado vadrá 6
+				End Enum
+			Console: 
+				System.Console.ReadLine().
+				System.Console.Write().
+				System.Console.WriteLine()
+			Convertion:
+				CType: CType(val, Type)
+			
+		Vb Code <>:
+		
+		Boxes:
+			InputBox;
+			MessageBox: MessageBox.Show(texto[,título [,botones [,icono[,botónDefecto]]]]) -> DialogResult
+	
+	3º Term
+		If: If expresiónLógica Then
+				bloque de instrucciones
+				[ElseIf expresiónLógica Then
+				bloque de instrucciones]…
+				[Else
+				bloque de instrucciones]
+			End If
+			
+		Select:Select Case expresiónPrueba
+					[Case listaDePruebas
+					[bloque de instrucciones]] ...
+					[Case Else
+					[bloque de instrucciones]]
+					[Case x to Y]
+				End select
+				
+		DoLoop:Do [{While | Until} exprLógica]
+						[bloque de instrucciones]
+						[Exit Do]
+						[bloque de instrucciones]
+						Loop
+						Do
+						[bloque de instrucciones]
+						[Exit Do]
+						[bloque de instrucciones]
+					Loop [{While | Until} exprLógica]
+					
+		For Next:For variable [As tipoDato] = exprInicio To exprFin [Step exprIncremento]
+					[bloque de instrucciones]
+					[Exit For]
+				Next [variable]
+				
+			Each:For Each elemento [As tipoDato] In grupo
+					[bloque de instrucciones]
+					[Exit For]
+					[bloque de instrucciones]
+				Next [elemento]
+				
+	4º Term
+		Sub
+			Declare:[accesibilidad]Sub nombreProc [(listaArgumentos)]
+						[ bloque de instrucciones ]
+						[ Exit Sub | Return ]
+						[ bloque de instrucciones ]
+					End Sub
+					
+			Call: [Call] nombreProc [(listaArgumentos)]
+			
+		Function:[accesibilidad]Function nombreFunc [(listaArgumentos)][As tipoDato]
+					[ bloque de instrucciones ]
+					[ Exit Function ]
+					[ bloque de instrucciones ]
+					[return valor]
+				End Function
+				
+		Main Class:
+			Sub Main()
+			End Sub
+			
+	5º Term
+		Array:Dim identificador ([listaLímites])[ As [ New ] tipoDatos ] [=ExprInic ]
+			Dim arr1() As Integer 'Declara una matriz de enteros de 1 dimensión
+			Dim arr2(,) As Byte 'Declara una matriz de bytes de 2 dimensiones
+			Dim arr3()() As Object 'Declara una matriz de objetos "escalonada“ (Matriz de matrices)
+			
+			Dim arr2() As Integer = {1, 2, 3, 4, 5}
+			
+			Dim arr4() As Byte = New Byte(3) {}
+			Dim arr5() As Byte = New Byte() {0,1,2} ' Desde 0 hasta 2
+			
+			 GetLowerBound(dimensión) y GetUpperBound(dimensión)
+	
+		Redimention : Dim arr14() As Byte = {1, 2, 3}
+						ReDim Preserve arr14(6) '{1,2,3,0,0,0,0}
+						ReDim Preserve arr14(1)
+						
+		Search: 	
+				Function buscar(ByVal a() As Object, ByVal e As Object) As Long
+				For i As Long = 0 To a.GetUpperBound(0)
+				If a(i).Equals(e) Then
+				Return i
+				End If
+				Next
+				Return -1
+				End Function
+				
+		Remove :Array.Clear(array,indiceInicio,longitud)
+		
+		Copy:	'v2={"xxx", "adios", "pepe", "manolo"}
+				Dim v4() As String = v.Clone
+				v4(0) = "yyy" 'v={"xxx", "adios", "pepe", "manolo"}
+				'v4={"yyy", "adios", "pepe", "manolo"}
+	
+		CopyTo:Dim v5() As Byte = {1, 2, 3, 4}
+				Dim v6(10) As Byte
+				v5.CopyTo(v6, 5) 'v6={0,0,0,0,0,1,2,3,4,0}
+				
+		IndexOf:Array.IndexOf(array,elemento)
+				Array.IndexOf(array,elemento,inicio)
+				Array.IndexOf(array,elemento,inicio,último)
+				
+		Other:Array.Reverse(array)
+				Array.Sort(array)
+				
+	6º Term
+		Keyboard:Private Sub TextBox2_KeyDown (ByVal sender As Object, _
+					ByVal e As System.Windows.Forms.KeyEventArgs) _
+					Handles TextBox2.KeyDown
+					'Detecta si se ha pulsado la tecla Shift+F1
+					If e.Shift And e.KeyCode = Keys.F1 Then
+					MsgBox ("Se ha pulsado Shift+F1")
+					End If
+				End Sub
+		
+		
+		
+		

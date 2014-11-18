@@ -1,0 +1,48 @@
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.FMaster.resources
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fnivel.resources
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\MasterMind.exe
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\MasterMind.xml
+C:\Users\alumno\documents\visual studio 2010\Projects\MasterMind\MasterMind\obj\x86\Debug\MasterMind.pdb
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.exe
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.xml
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.pdb
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.FMaster.resources
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fnivel.resources
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.exe
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.xml
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\MasterMind.pdb
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.FMaster.resources
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fnivel.resources
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Curso 20132014\Desarrollo Interfaces\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fopciones.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\MasterMind.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\MasterMind.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\MasterMind.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.FMaster.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fnivel.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Fopciones.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\eslem\Documents\FP\DAM\VisualBasic\MasterMind\MasterMind\MasterMind\obj\x86\Debug\MasterMind.vbproj.GenerateResource.Cache
