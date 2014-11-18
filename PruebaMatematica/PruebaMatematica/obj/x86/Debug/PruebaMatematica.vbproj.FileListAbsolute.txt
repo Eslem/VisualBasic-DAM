@@ -10,6 +10,9 @@ C:\Users\Eslem\AppData\Local\Temporary Projects\PruebaMatematica\obj\x86\Debug\P
 E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.exe
 E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.xml
 E:\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.pdb
+<<<<<<< HEAD
+=======
 C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.exe
 C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.xml
 C:\Users\eslem\Documents\FP\DAM\VisualBasic\PruebaMatematica\PruebaMatematica\obj\x86\Debug\PruebaMatematica.pdb
+>>>>>>> 6daebe9db64b589fe022d1c1ccaad2b38b4d3615
