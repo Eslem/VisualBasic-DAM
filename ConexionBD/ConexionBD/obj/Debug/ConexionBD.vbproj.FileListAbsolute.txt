@@ -1,0 +1,7 @@
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Fconexion.resources
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Debug\ConexionBD.Resources.resources
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Debug\ConexionBD.vbproj.GenerateResource.Cache
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\bin\Debug\ConexionBD.exe
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\bin\Debug\ConexionBD.pdb
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Debug\ConexionBD.exe
+E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Debug\ConexionBD.pdb
