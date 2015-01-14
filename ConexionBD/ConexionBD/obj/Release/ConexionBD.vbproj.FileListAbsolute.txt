@@ -1,5 +1,0 @@
-E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Release\ConexionBD.Fconexion.resources
-E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Release\ConexionBD.Resources.resources
-E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Release\ConexionBD.vbproj.GenerateResource.Cache
-E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\bin\Release\ConexionBD.exe
-E:\FP\DAM\VisualBasic\ConexionBD\ConexionBD\obj\Release\ConexionBD.exe
